@@ -1,7 +1,9 @@
 # checkpoint-3
 ### Partie 1 : Gestion des utilisateurs
 <details>
-##Partie 1 : Gestion des utilisateurs:
+
+ 
+ ## Partie 1 : Gestion des utilisateurs:
 
 **Q.1.1.1 Créer l'utilisateur Lionel Lemarchand avec les même attribut de société que **Kelly Rhameur** :**
 on cemence par trouver le compte de Kelly Rhameur on ouvre notre active derectory > tools > active directory Users and Computer > TTSR.lan >LabUsers > direction RH  ![Image](https://github.com/user-attachments/assets/26a98fff-901b-46d1-8a4f-125f0f1a552f)
